@@ -13,7 +13,7 @@ $ go get github.com/picatz/flipz
 $ go get github.com/urfave/cli
 $ git clone github.com/picatz/flipz
 $ cd flipz
-$ go build flipz
+$ go build main.go 
 ```
 
 ## Command-line Options
