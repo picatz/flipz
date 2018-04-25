@@ -11,9 +11,9 @@ $ go get github.com/picatz/flipz
 
 ```shell
 $ go get github.com/urfave/cli
-$ git clone https://github.com/picatz/isit.git
-$ cd isit
-$ go build isit.go
+$ git clone github.com/picatz/flipz
+$ cd flipz
+$ go build flipz
 ```
 
 ## Command-line Options
