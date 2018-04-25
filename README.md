@@ -18,14 +18,14 @@ $ go build isit.go
 
 ## Command-line Options
 
-The `flip` command prints a random flip table. This is also the default command.
+The `flip` command flips a table. This is also the default command.
 
 ```shell
 $ flipz flip
 [ ╯ ' □']╯︵┻━┻)
 ```
 
-The `put` command prints a puts a table back (to be flipped again!).
+The `put` command puts a table back (to be flipped again!).
 
 ```shell
 $ flipz put
